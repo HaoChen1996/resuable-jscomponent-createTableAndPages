@@ -1,4 +1,7 @@
 # resuable-jscomponent-createTableAndPages
+
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 This is a javascript component for automatic generate tables and pages.
 
 This repository contains:
@@ -56,4 +59,9 @@ var columns=[
  | width    | the width(length) of each column           |
  | type     | this could be text or date or your customized type |
  
+ 
+ The default size of row per page is 10, but you can change it in source code : Line 1
+ ```javascript
+ var size=10;
+ ```
  
