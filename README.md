@@ -19,3 +19,9 @@ demonstrate data in the right format(for example: Date),what if you have a long 
 
 here is my js can solve this problem.
 
+##Install
+
+Actually it's pretty simple you just have to drag this file into your project current location,and import it.
+```javascript
+<script type="text/javascript" src="../js/table&page.js"></script>
+```
